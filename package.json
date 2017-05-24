@@ -1,0 +1,8 @@
+{
+  "name": "Boilermaker",
+  "version": "1.0.0",
+  "description": "template for new fullstack js projects",
+  "main": "index.js",
+  "author": "Mike van Genderen <mikevg466>",
+  "license": "MIT"
+}
